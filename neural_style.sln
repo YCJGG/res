@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "neural_style", "neural_style\neural_style.pyproj", "{3D5957C0-317A-4F8B-AB8E-4AA4714D98D2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "deep_Reconstruction", "..\deep_Reconstruction\deep_Reconstruction\deep_Reconstruction.pyproj", "{DCA7CF4D-7649-4D7D-91AF-612A12DF00FA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "neuralstyle_mask", "..\neuralstyle_mask\neuralstyle_mask\neuralstyle_mask.pyproj", "{720177CC-16AC-4C54-A256-8F7D4FBA5907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D5957C0-317A-4F8B-AB8E-4AA4714D98D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5957C0-317A-4F8B-AB8E-4AA4714D98D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA7CF4D-7649-4D7D-91AF-612A12DF00FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA7CF4D-7649-4D7D-91AF-612A12DF00FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720177CC-16AC-4C54-A256-8F7D4FBA5907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720177CC-16AC-4C54-A256-8F7D4FBA5907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
