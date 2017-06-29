@@ -1,7 +1,6 @@
 import tensorflow as tf
 import numpy as np 
 import scipy.io 
-# 一行注释
 def net(data_path,input_image):
     layers = (
         'conv1_1', 'relu1_1', 'conv1_2', 'relu1_2', 'pool1',
